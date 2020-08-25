@@ -17,4 +17,4 @@ Project is about sales analysis. I've used Microsoft SQL Server sample dataset -
 * Top 10 products by price
 * Top 10 products by quantity
 * Employees with the biggest and the smallest sales
-* [Dashboard](https://public.tableau.com/profile/bartekkrol#!/) in Tableau (Northwind)
+* [Dashboard](https://public.tableau.com/profile/krolb#!/) in Tableau (Northwind)
